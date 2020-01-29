@@ -1,0 +1,261 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "Antarctic_GeoChron_Subset_Valid_Coordinates_6163": {
+      "display": true,
+      "group": "Database"
+    },
+    "Matthews_etal_2016_GPC_reconstructed_200Ma_1109": {
+      "display": true,
+      "group": "Heatflow Reconstruction"
+    },
+    "Matthews_etal_2016_GPC_Coastlines_reconstructed_200Ma_535": {
+      "display": true,
+      "group": "Heatflow Reconstruction"
+    },
+    "Matthews_etal_2016_GPC_ContinentalPolygons_reconstructed_200Ma_8554": {
+      "display": true,
+      "group": "Heatflow Reconstruction"
+    },
+    "ANTGG_Accuracy_10km_2_6911": {
+      "display": true,
+      "group": "ANTGG"
+    },
+    "ANTGG_Accuracy_10km_2_6911_0": {
+      "display": true
+    },
+    "ANTGG_Accuracy_10km_2_6911_1": {
+      "display": true
+    },
+    "ANTGGBouguerAnom10km_2_4637": {
+      "display": true,
+      "group": "ANTGG"
+    },
+    "ANTGGBouguerAnom10km_2_4637_0": {
+      "display": true
+    },
+    "ANTGGBouguerAnom10km_2_4637_1": {
+      "display": true
+    },
+    "ANTGGFreeAirGravAnom10km_2_7282": {
+      "display": true,
+      "group": "ANTGG"
+    },
+    "ANTGGFreeAirGravAnom10km_2_7282_0": {
+      "display": true
+    },
+    "ANTGGFreeAirGravAnom10km_2_7282_1": {
+      "display": true
+    },
+    "EIGEN6C4_HeightAnom10km_2_5291": {
+      "display": true,
+      "group": "EIGEN6C4"
+    },
+    "EIGEN6C4_HeightAnom10km_2_5291_0": {
+      "display": true
+    },
+    "EIGEN6C4_HeightAnom10km_2_5291_1": {
+      "display": true
+    },
+    "EIGEN6C4_GravityDist10km_8002": {
+      "display": true,
+      "group": "EIGEN6C4"
+    },
+    "EIGEN6C4_GravityDist10km_8002_0": {
+      "display": true
+    },
+    "EIGEN6C4_GravityDist10km_8002_1": {
+      "display": true
+    },
+    "mantle_gravity_disturbance_2_5394": {
+      "display": true,
+      "group": "Gravity Disturbance"
+    },
+    "mantle_gravity_disturbance_2_5394_0": {
+      "display": true
+    },
+    "mantle_gravity_disturbance_2_5394_1": {
+      "display": true
+    },
+    "Bouguer_gravity_disturban_4398": {
+      "display": true,
+      "group": "Gravity Disturbance"
+    },
+    "Bouguer_gravity_disturban_4398_0": {
+      "display": true
+    },
+    "Bouguer_gravity_disturban_4398_1": {
+      "display": true
+    },
+    "ADMAP2_2B_2017_4406": {
+      "display": true,
+      "group": "ADMAP2"
+    },
+    "ADMAP2_2B_2017_4406_0": {
+      "display": true
+    },
+    "ADMAP2_2B_2017_4406_1": {
+      "display": true
+    },
+    "magnetics_emag2_8865": {
+      "display": true,
+      "group": "Magnetics"
+    },
+    "magnetics_emag2_8865_0": {
+      "display": true
+    },
+    "magnetics_emag2_8865_1": {
+      "display": true
+    },
+    "AN1CRUST_2_3045": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1CRUST_2_3045_0": {
+      "display": true
+    },
+    "AN1CRUST_2_3045_1": {
+      "display": true
+    },
+    "AN1S_LAB_2_1833": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_LAB_2_1833_0": {
+      "display": true
+    },
+    "AN1S_LAB_2_1833_1": {
+      "display": true
+    },
+    "AN1S_10km_2_6145": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_10km_2_6145_0": {
+      "display": true
+    },
+    "AN1S_10km_2_6145_1": {
+      "display": true
+    },
+    "AN1S_20km_2_2488": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_20km_2_2488_0": {
+      "display": true
+    },
+    "AN1S_20km_2_2488_1": {
+      "display": true
+    },
+    "AN1S_30km_2_8062": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_30km_2_8062_0": {
+      "display": true
+    },
+    "AN1S_30km_2_8062_1": {
+      "display": true
+    },
+    "AN1S_40km_2_5086": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_40km_2_5086_0": {
+      "display": true
+    },
+    "AN1S_40km_2_5086_1": {
+      "display": true
+    },
+    "AN1S_50km_2_6451": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_50km_2_6451_0": {
+      "display": true
+    },
+    "AN1S_50km_2_6451_1": {
+      "display": true
+    },
+    "AN1S_75km_2_9105": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_75km_2_9105_0": {
+      "display": true
+    },
+    "AN1S_75km_2_9105_1": {
+      "display": true
+    },
+    "AN1S_100km_2_8644": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_100km_2_8644_0": {
+      "display": true
+    },
+    "AN1S_100km_2_8644_1": {
+      "display": true
+    },
+    "AN1S_125km_2_3163": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_125km_2_3163_0": {
+      "display": true
+    },
+    "AN1S_125km_2_3163_1": {
+      "display": true
+    },
+    "AN1S_150km_2_6181": {
+      "display": true,
+      "group": "AN1S"
+    },
+    "AN1S_150km_2_6181_0": {
+      "display": true
+    },
+    "AN1S_150km_2_6181_1": {
+      "display": true
+    },
+    "crustal_thickness_moho_Baranov_2018_2_5231": {
+      "display": true,
+      "group": "Crustal Thickness"
+    },
+    "crustal_thickness_moho_Baranov_2018_2_5231_0": {
+      "display": true
+    },
+    "GeothermalHeatFlux_5km_7065": {
+      "display": true,
+      "group": "Heat Flux"
+    },
+    "GeothermalHeatFlux_5km_7065_0": {
+      "display": true
+    },
+    "elastic_thickness_chen_2017_7455": {
+      "display": true,
+      "group": "Elastic Thickness"
+    },
+    "elastic_thickness_chen_2017_7455_0": {
+      "display": true
+    },
+    "SchematicGeologyAntarctica_3552": {
+      "display": false,
+      "group": ""
+    },
+    "crustal_thickness_moho_Baranov_2018_2_9082": {
+      "display": false,
+      "group": ""
+    },
+    "crustal_thickness_moho_Baranov_2018_2_9082_0": {
+      "display": true
+    }
+  }
+}
